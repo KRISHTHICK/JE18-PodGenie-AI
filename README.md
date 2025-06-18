@@ -18,7 +18,7 @@ Feature	Description
 🔊 (Optional) Text-to-Speech Hook	Future add-on: convert script into voice
 
 🚀 To Run
-bash
+'''bash
 Copy
 Edit
 pip install -r requirements.txt
